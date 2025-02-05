@@ -13,7 +13,7 @@ const app = express();
 config({ path: "./config/config.env" });
 
 app.use(cors({
-    origin: [process.env.FRONTEND_URL, process.env.DASHBOARD_URL, process.env.NGROK_FRONTEND_URL],
+    origin: [process.env.FRONTEND_URL, process.env.DASHBOARD_URL, process.env.NETLIFY_FRONTEND_URL, process.env.NETLIFY_DASHBOARD_URL],
     method: ["GET", "POST", "DELETE", "PUT"],
     credentials: true,
     allowedHeaders: ["Content-Type", "Authorization"],
