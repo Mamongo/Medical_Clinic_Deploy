@@ -53,7 +53,7 @@ describe("MessageForm Component", () => {
 
     await waitFor(() => {
       expect(axios.post).toHaveBeenCalledWith(
-        "http://localhost:4000/api/v1/message/send",
+        "https://medical-clinic-deploy-backend1.onrender.com/api/v1/message/send",
         {
           firstName: "Yerkhan",
           lastName: "Bayanov",
