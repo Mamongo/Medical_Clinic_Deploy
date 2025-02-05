@@ -1,0 +1,113 @@
+{
+    "login": {
+    "signIn": "Zaloguj się",
+    "pleaseLogin": "Zaloguj się, aby kontynuować",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat culpa voluptas expedita itaque ex, totam ad quod error?",
+    "email": "Email",
+    "password": "Hasło",
+    "confirmPassword": "Potwierdź Hasło",
+    "notRegistered": "Nie masz konta?",
+    "registerNow": "Zarejestruj się teraz",
+    "loginButton": "Zaloguj"
+  },
+  "register": {
+    "signUp": "Zarejestruj się",
+    "signUpToContinue": "Proszę zarejestrować się, aby kontynuować",
+    "firstName": "Imię",
+    "lastName": "Nazwisko",
+    "email": "Email",
+    "mobileNumber": "Numer telefonu",
+    "nic": "Nr dowodu osobistego",
+    "dob": "Data urodzenia",
+    "selectGender": "Wybierz płeć",
+    "male": "Mężczyzna",
+    "female": "Kobieta",
+    "password": "Hasło",
+    "alreadyRegistered": "Już zarejestrowany?",
+    "loginNow": "Zaloguj się teraz",
+    "register": "Zarejestruj"
+  },
+  "navbar": {
+    "home": "Strona główna",
+    "appointment": "Wizyta",
+    "aboutUs": "O nas",
+    "logout": "WYLOGUJ",
+    "login": "ZALOGUJ"
+  },
+  "messageForm": {
+    "sendMessage": "Wyślij wiadomość do nas",
+    "firstName": "Imię",
+    "lastName": "Nazwisko",
+    "email": "Email",
+    "phone": "Numer telefonu",
+    "messagePlaceholder": "Twoja wiadomość",
+    "sendMessageButton": "Wyślij wiadomość",
+    "unexpectedResponse": "Niespodziewana odpowiedź od serwera",
+    "noResponse": "Brak odpowiedzi od serwera",
+    "requestError": "Błąd w konfiguracji żądania",
+
+    "successMessage": "Message sent successfully!",
+    "invalidEmail": "Please enter a valid email address."
+  },
+  "hero": {
+    "description": "Aplikacja kliniki medycznej, która umożliwi zarządzanie pokojami w klinice, lekarzami, pacjentami i wizytami."
+  },
+  "footer": {
+    "quickLinks": "Szybkie Linki",
+    "home": "Strona Główna",
+    "appointment": "Wizyta",
+    "about": "O Nas",
+    "hours": "Godziny",
+    "monday": "Poniedziałek",
+    "mondayTime": "9:00 AM - 11:00 PM",
+    "tuesday": "Wtorek",
+    "tuesdayTime": "12:00 PM - 12:00 AM",
+    "wednesday": "Środa",
+    "wednesdayTime": "10:00 AM - 10:00 PM",
+    "thursday": "Czwartek",
+    "thursdayTime": "9:00 AM - 9:00 PM",
+    "friday": "Piątek",
+    "fridayTime": "3:00 PM - 9:00 PM",
+    "saturday": "Sobota",
+    "sunday": "Niedziela",
+    "closed": "Zamknięte",
+    "contact": "Kontakt",
+    "location": "Rzeszów, Polska"
+  },
+  "departments": {
+    "title": "Oddziały",
+    "pediatrics": "Pediatria",
+    "orthopedics": "Ortopedia",
+    "cardiology": "Kardiologia",
+    "neurology": "Neurologia",
+    "oncology": "Onkologia",
+    "radiology": "Radiologia",
+    "physicalTherapy": "Terapia Fizyczna",
+    "dermatology": "Dermatologia",
+    "ent": "Laryngologia"
+  },
+  "biography": {
+    "title": "Biografia",
+    "description": "Aplikacja medyczna, która umożliwia zarządzanie pokojami w klinice, lekarzami, pacjentami i wizytami."
+  },
+  "appointment": {
+    "formTitle": "Wizyta",
+    "firstName": "Imię",
+    "lastName": "Nazwisko",
+    "email": "E-mail",
+    "mobileNumber": "Numer telefonu",
+    "nic": "Nr ID",
+    "dob": "Data urodzenia",
+    "selectGender": "Wybierz płeć",
+    "male": "Mężczyzna",
+    "female": "Kobieta",
+    "appointmentDate": "Data wizyty",
+    "selectDoctor": "Wybierz lekarza",
+    "address": "Adres",
+    "visitedBefore": "Czy odwiedzałeś nas wcześniej?",
+    "submitButton": "UMÓW WIZYTĘ"
+  },
+    "welcome": "Witamy",
+    "about_us": "O nas"
+}
+  

@@ -1,0 +1,114 @@
+{
+    "login": {
+    "signIn": "Sign In",
+    "pleaseLogin": "Please Login To Continue",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat culpa voluptas expedita itaque ex, totam ad quod error?",
+    "email": "Email",
+    "password": "Password",
+    "confirmPassword": "Confirm Password",
+    "notRegistered": "Not Registered?",
+    "registerNow": "Register Now",
+    "loginButton": "Login"
+    },
+    "register": {
+      "signUp": "Sign Up",
+      "signUpToContinue": "Please Sign Up To Continue",
+      "firstName": "First Name",
+      "lastName": "Last Name",
+      "email": "Email",
+      "mobileNumber": "Mobile Number",
+      "nic": "NIC",
+      "dob": "Date of Birth",
+      "selectGender": "Select Gender",
+      "male": "Male",
+      "female": "Female",
+      "password": "Password",
+      "alreadyRegistered": "Already Registered?",
+      "loginNow": "Login Now",
+      "register": "Register"
+    },
+    "navbar": {
+    "home": "Home",
+    "appointment": "Appointment",
+    "aboutUs": "About Us",
+    "logout": "LOGOUT",
+    "login": "LOGIN"
+    },
+    "messageForm": {
+    "sendMessage": "Send to us message",
+    "firstName": "Firstname",
+    "lastName": "Lastname",
+    "email": "Email",
+    "phone": "Phone Number",
+    "messagePlaceholder": "Your Message",
+    "sendMessageButton": "Send Message",
+    "unexpectedResponse": "Unexpected response from the server",
+    "noResponse": "No response received from server",
+    "requestError": "Error in setting up request",
+
+      "successMessage": "Message sent successfully!",
+      "invalidEmail": "Please enter a valid email address."
+  },
+  "hero": {
+    "description": "Medical clinic application which will allow to manage rooms in the clinic, doctors, patients and appointments."
+  },
+  "footer": {
+    "quickLinks": "Quick Links",
+    "home": "Home",
+    "appointment": "Appointment",
+    "about": "About",
+    "hours": "Hours",
+    "monday": "Monday",
+    "mondayTime": "9:00 AM - 11:00 PM",
+    "tuesday": "Tuesday",
+    "tuesdayTime": "12:00 PM - 12:00 AM",
+    "wednesday": "Wednesday",
+    "wednesdayTime": "10:00 AM - 10:00 PM",
+    "thursday": "Thursday",
+    "thursdayTime": "9:00 AM - 9:00 PM",
+    "friday": "Friday",
+    "fridayTime": "3:00 PM - 9:00 PM",
+    "saturday": "Saturday",
+    "sunday": "Sunday",
+    "closed": "Closed",
+    "contact": "Contact",
+    "location": "Rzeszow, Poland"
+  },
+  "departments": {
+    "title": "Departments",
+    "pediatrics": "Pediatrics",
+    "orthopedics": "Orthopedics",
+    "cardiology": "Cardiology",
+    "neurology": "Neurology",
+    "oncology": "Oncology",
+    "radiology": "Radiology",
+    "physicalTherapy": "Physical Therapy",
+    "dermatology": "Dermatology",
+    "ent": "ENT"
+  },
+  "biography": {
+    "title": "Biography",
+    "description": "Medical clinic application which will allow to manage rooms in the clinic, doctors, patients, and appointments."
+  },
+  "appointment": {
+    "formTitle": "Appointment",
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "email": "Email",
+    "mobileNumber": "Mobile Number",
+    "nic": "NIC",
+    "dob": "Date of Birth",
+    "selectGender": "Select Gender",
+    "male": "Male",
+    "female": "Female",
+    "appointmentDate": "Appointment Date",
+    "selectDoctor": "Select Doctor",
+    "address": "Address",
+    "visitedBefore": "Have you visited before?",
+    "submitButton": "GET APPOINTMENT"
+  },
+
+    "welcome": "Witamy",
+    "about_us": "O nas"
+  }
+  

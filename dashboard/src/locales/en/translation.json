@@ -1,0 +1,101 @@
+{
+  "dashboard": {
+    "altText": "Dashboard Image",
+    "welcome": "Welcome",
+    "admin": "Admin",
+    "urgentMessages": "Urgent messages",
+    "totalAppointments": "Total Appointments",
+    "registeredDoctors": "Registered Doctors",
+    "appointments": "Appointments",
+    "patient": "Patient",
+    "date": "Date",
+    "doctor": "Doctor",
+    "department": "Department",
+    "status": "Status",
+    "visitedBefore": "Visited Before",
+    "noAppointments": "No Appointments Found!"
+  },
+  "status": {
+    "pending": "Pending",
+    "accepted": "Accepted",
+    "rejected": "Rejected"
+  },
+  "login": {
+    "logoAlt": "Medical Clinic Logo",
+    "title": "Medical Clinic Application",
+    "adminOnly": "Only for Admins!!!",
+    "emailPlaceholder": "Email",
+    "passwordPlaceholder": "Password",
+    "confirmPasswordPlaceholder": "Confirm Password",
+    "button": "Login"
+  },
+  "messages": {
+    "title": "Messages",
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "email": "Email",
+    "phone": "Phone",
+    "message": "Message",
+    "noMessages": "No Messages!"
+  },
+  "admin": {
+    "title": "Add New Admin",
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "email": "Email",
+    "phone": "Mobile Number",
+    "nic": "NIC",
+    "dob": "Date of Birth",
+    "selectGender": "Select Gender",
+    "male": "Male",
+    "female": "Female",
+    "password": "Password",
+    "submit": "Add New Admin"
+  },
+  "doctor": {
+    "title": "Register a New Doctor",
+    "title1": "Doctors",
+    "avatarAlt": "Doctor Avatar",
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "email": "Email",
+    "phone": "Mobile Number",
+    "nic": "NIC",
+    "dob": "Date of Birth",
+    "department": "Department",
+    "selectGender": "Select Gender",
+    "noDoctors": "No Registered Doctors Found!",
+    "gender": "Gender",
+    "male": "Male",
+    "female": "Female",
+    "password": "Password",
+    "selectDepartment": "Select Department",
+    "submit": "Register New Doctor",
+    "pediatrics": "Pediatrics",
+    "orthopedics": "Orthopedics",
+    "cardiology": "Cardiology",
+    "neurology": "Neurology",
+    "oncology": "Oncology",
+    "radiology": "Radiology",
+    "physicalTherapy": "Physical Therapy",
+    "dermatology": "Dermatology",
+    "ent": "ENT"
+  },
+  "doctors": {
+    "title": "Doctors",
+    "avatarAlt": "Doctor Avatar",
+    "email": "Email",
+    "phone": "Mobile Number",
+    "dob": "Date of Birth",
+    "department": "Department",
+    "nic": "NIC",
+    "gender": "Gender",
+    "noDoctors": "No Registered Doctors Found!"
+  },
+  "error": {
+    "updateStatus": "Failed to update status.",
+    "loginFailed": "Login failed. Please check your credentials.",
+    "fetchFailed": "Failed to fetch messages.",
+    "adminFailed": "Failed to process the request."
+  }
+}

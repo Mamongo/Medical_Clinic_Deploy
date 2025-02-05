@@ -1,0 +1,97 @@
+{
+    "dashboard": {
+      "altText": "Obrazek pulpitu",
+      "welcome": "Witaj",
+      "admin": "Administrator",
+      "urgentMessages": "Pilne wiadomości",
+      "totalAppointments": "Wszystkie wizyty",
+      "registeredDoctors": "Zarejestrowani lekarze",
+      "appointments": "Wizyty",
+      "patient": "Pacjent",
+      "date": "Data",
+      "doctor": "Lekarz",
+      "department": "Oddział",
+      "status": "Status",
+      "visitedBefore": "Odwiedzony wcześniej",
+      "noAppointments": "Brak wizyt!"
+    },
+    "status": {
+      "pending": "Oczekujące",
+      "accepted": "Zaakceptowane",
+      "rejected": "Odrzucone"
+    },
+    "login": {
+    "logoAlt": "Logo Kliniki Medycznej",
+    "title": "Aplikacja Kliniki Medycznej",
+    "adminOnly": "Tylko dla Administratorów!!!",
+    "emailPlaceholder": "E-mail",
+    "passwordPlaceholder": "Hasło",
+    "confirmPasswordPlaceholder": "Potwierdź Hasło",
+    "button": "Zaloguj się"
+    },
+    "messages": {
+    "title": "Wiadomości",
+    "firstName": "Imię",
+    "lastName": "Nazwisko",
+    "email": "E-mail",
+    "phone": "Telefon",
+    "message": "Wiadomość",
+    "noMessages": "Brak wiadomości!"
+    },
+    "admin": {
+    "title": "Dodaj nowego administratora",
+    "firstName": "Imię",
+    "lastName": "Nazwisko",
+    "email": "E-mail",
+    "phone": "Numer telefonu",
+    "nic": "Numer identyfikacyjny",
+    "dob": "Data urodzenia",
+    "selectGender": "Wybierz płeć",
+    "male": "Mężczyzna",
+    "female": "Kobieta",
+    "password": "Hasło",
+    "submit": "Dodaj nowego administratora"
+    },
+    "doctor": {
+    "title": "Zarejestruj nowego lekarza",
+    "firstName": "Imię",
+    "lastName": "Nazwisko",
+    "email": "E-mail",
+    "phone": "Numer telefonu",
+    "nic": "Numer identyfikacyjny",
+    "dob": "Data urodzenia",
+    "selectGender": "Wybierz płeć",
+    "male": "Mężczyzna",
+    "female": "Kobieta",
+    "password": "Hasło",
+    "selectDepartment": "Wybierz dział",
+    "submit": "Zarejestruj nowego lekarza",
+    "pediatrics": "Pediatria",
+    "orthopedics": "Ortopedia",
+    "cardiology": "Kardiologia",
+    "neurology": "Neurologia",
+    "oncology": "Onkologia",
+    "radiology": "Radiologia",
+    "physicalTherapy": "Fizjoterapia",
+    "dermatology": "Dermatologia",
+    "ent": "Otolaryngologia"
+  },
+  "doctors": {
+    "title": "Lekarze",
+    "avatarAlt": "Awatar lekarza",
+    "email": "E-mail",
+    "phone": "Numer telefonu",
+    "dob": "Data urodzenia",
+    "department": "Oddział",
+    "nic": "Numer identyfikacyjny",
+    "gender": "Płeć",
+    "noDoctors": "Nie znaleziono zarejestrowanych lekarzy!"
+  },
+    "error": {
+      "updateStatus": "Nie udało się zaktualizować statusu.",
+      "loginFailed": "Logowanie nie powiodło się. Sprawdź swoje dane.",
+      "fetchFailed": "Nie udało się pobrać wiadomości.",
+      "adminFailed": "Nie udało się przetworzyć żądania."
+    }
+  }
+  
