@@ -17,7 +17,7 @@ const Dashboard = () => {
     const fetchData = async () => {
       try {
         const appointmentRes = await axios.get(
-          "http://localhost:4000/api/v1/appointment/getall",
+          "https://medical-clinic-deploy-backend1.onrender.com/api/v1/appointment/getall",
           { withCredentials: true }
         );
         setAppointments(appointmentRes.data.appointments);
